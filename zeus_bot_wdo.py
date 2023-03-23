@@ -1,5 +1,7 @@
 
-git bisect start
+git push --debug
+
+
 "none"
 
 from asyncio import taskgroups, tasks
