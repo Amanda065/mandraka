@@ -3,6 +3,8 @@ git push --debug
 
 
 "none"
+import math
+print(math.pi)
 
 from asyncio import taskgroups, tasks
 from ctypes import LibraryLoader
