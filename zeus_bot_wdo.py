@@ -1,6 +1,14 @@
 
 git push --debug
+# Script foo.py
 
+def soma(a, b):
+    return a + b
+
+if __name__ == "__main__":
+    print("Testando a função soma:")
+    print(soma(2, 3))
+    
 
 "none"
 import math
